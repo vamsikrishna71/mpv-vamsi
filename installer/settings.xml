@@ -1,0 +1,5 @@
+<settings>
+  <channel>weekly</channel>
+  <autodelete>unset</autodelete>
+  <getffmpeg>unset</getffmpeg>
+</settings>
